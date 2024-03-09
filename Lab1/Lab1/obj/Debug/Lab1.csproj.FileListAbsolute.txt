@@ -1,0 +1,8 @@
+D:\Universitate\University-projects\Semester4\DBMS\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Universitate\University-projects\Semester4\DBMS\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Universitate\University-projects\Semester4\DBMS\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Universitate\University-projects\Semester4\DBMS\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Universitate\University-projects\Semester4\DBMS\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Universitate\University-projects\Semester4\DBMS\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Universitate\University-projects\Semester4\DBMS\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Universitate\University-projects\Semester4\DBMS\Lab1\Lab1\obj\Debug\Lab1.pdb

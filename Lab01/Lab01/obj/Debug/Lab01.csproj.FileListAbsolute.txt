@@ -1,0 +1,11 @@
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\bin\Debug\Lab01.exe.config
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\bin\Debug\Lab01.exe
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\bin\Debug\Lab01.pdb
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\obj\Debug\Lab01.csproj.SuggestedBindingRedirects.cache
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\obj\Debug\Lab01.exe
+D:\Universitate\University-projects\Semester4\DBMS\Lab01\Lab01\obj\Debug\Lab01.pdb

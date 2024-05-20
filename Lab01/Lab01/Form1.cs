@@ -83,7 +83,14 @@ namespace Lab01
 
         private void button1_Click(object sender, EventArgs e)
         {
-            daBooks.Update(dset, "Books");
+            try
+            {
+                daBooks.Update(dset, "Books");
+            }
+            catch (Exception exc)
+            {
+                Console.WriteLine(exc.Message);
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)

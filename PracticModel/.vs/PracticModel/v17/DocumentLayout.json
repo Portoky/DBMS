@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40F9F81-DFB8-4DB2-8296-E4BE55815732}|PracticModel\\PracticModel.csproj|d:\\universitate\\university-projects\\semester4\\dbms\\practicmodel\\practicmodel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40F9F81-DFB8-4DB2-8296-E4BE55815732}|PracticModel\\PracticModel.csproj|solutionrelative:practicmodel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40F9F81-DFB8-4DB2-8296-E4BE55815732}|PracticModel\\PracticModel.csproj|D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\practicmodel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E40F9F81-DFB8-4DB2-8296-E4BE55815732}|PracticModel\\PracticModel.csproj|solutionrelative:practicmodel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40F9F81-DFB8-4DB2-8296-E4BE55815732}|PracticModel\\PracticModel.csproj|D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\practicmodel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40F9F81-DFB8-4DB2-8296-E4BE55815732}|PracticModel\\PracticModel.csproj|solutionrelative:practicmodel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40F9F81-DFB8-4DB2-8296-E4BE55815732}|PracticModel\\PracticModel.csproj|D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\practicmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40F9F81-DFB8-4DB2-8296-E4BE55815732}|PracticModel\\PracticModel.csproj|solutionrelative:practicmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\PracticModel\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PracticModel\\Form1.Designer.cs",
+              "ToolTip": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\PracticModel\\Form1.Designer.cs",
+              "RelativeToolTip": "PracticModel\\Form1.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAlwD0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:48:10.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\PracticModel\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticModel\\Form1.cs",
+              "ToolTip": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\PracticModel\\Form1.cs [Design]",
+              "RelativeToolTip": "PracticModel\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:47:53.717Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\PracticModel\\Program.cs",
+              "RelativeDocumentMoniker": "PracticModel\\Program.cs",
+              "ToolTip": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\PracticModel\\Program.cs",
+              "RelativeToolTip": "PracticModel\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:28:19.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\PracticModel\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticModel\\Form1.cs",
+              "ToolTip": "D:\\Universitate\\University-projects\\Semester4\\DBMS\\PracticModel\\PracticModel\\Form1.cs",
+              "RelativeToolTip": "PracticModel\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:26:04.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

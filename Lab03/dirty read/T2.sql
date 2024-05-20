@@ -1,0 +1,13 @@
+Use Faculty_lab3
+Go
+--solution:
+SET TRAN ISOLATION LEVEL READ COMMITTED
+--problem:
+--SET TRAN ISOLATION LEVEL READ UNCOMMITTED
+BEGIN TRAN
+-- see update
+SELECT * FROM Student
+WAITFOR DELAY '00:00:06'
+-- update was rolled back
+SELECT * FROM Student
+COMMIT TRAN

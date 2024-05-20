@@ -1,0 +1,10 @@
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\bin\Debug\PracticModel.exe.config
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\bin\Debug\PracticModel.exe
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\bin\Debug\PracticModel.pdb
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\obj\Debug\PracticModel.csproj.AssemblyReference.cache
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\obj\Debug\PracticModel.Form1.resources
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\obj\Debug\PracticModel.Properties.Resources.resources
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\obj\Debug\PracticModel.csproj.GenerateResource.cache
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\obj\Debug\PracticModel.csproj.CoreCompileInputs.cache
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\obj\Debug\PracticModel.exe
+D:\Universitate\University-projects\Semester4\DBMS\PracticModel\PracticModel\obj\Debug\PracticModel.pdb

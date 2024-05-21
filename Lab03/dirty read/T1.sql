@@ -6,3 +6,4 @@ SET Name = 'TestDirtyRead'
 WHERE StudentId = 3
 WAITFOR DELAY '00:00:06'
 ROLLBACK TRAN
+

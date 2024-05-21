@@ -106,9 +106,11 @@ Begin
 			Else If @addCourseSuccess = 0
 			Begin
 				Rollback Tran addStudent
+				Commit Tran
 			End
 			Else If @addSubSuccess = 0
 			Begin
+				Rollback Tran addCourse
 				Rollback Tran
 			End
 		End
@@ -150,9 +152,11 @@ Begin
 			Else If @addCourseSuccess = 0
 			Begin
 				Rollback Tran addStudent
+				Commit Tran
 			End
 			Else If @addSubSuccess = 0
 			Begin
+				Rollback Tran addCourse
 				Rollback Tran
 			End
 		End
@@ -166,7 +170,7 @@ Exec uspCommit
 Delete from Student;
 Delete from Course;
 Delete from Subscription;
-
+Delete from LogTable;
 select * from LogTable;
 select * from Student;
 select * from Course;

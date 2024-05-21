@@ -3,7 +3,7 @@ Go
 --INSERT INTO Course (CourseId, Name, Description) VALUES (6, 'Mathematics', 'Basic Math Course');
 --Delete From Course Where CourseId=6
 -- update conflict
-ALTER DATABASE Faculty_lab3 SET ALLOW_SNAPSHOT_ISOLATION ON
+ALTER DATABASE Faculty_lab3 SET ALLOW_SNAPSHOT_ISOLATION ON --OFF
 SET TRAN ISOLATION LEVEL SNAPSHOT
 BEGIN TRAN
 
